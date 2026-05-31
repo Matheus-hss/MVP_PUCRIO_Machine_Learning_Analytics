@@ -174,26 +174,6 @@ Dessa forma, conclui-se que a Regressão Linear representa a melhor solução pa
 
 ---
 
-## Estrutura do Projeto
-
-```text
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── MVP_Machine_Learning_Analytics.ipynb
-│
-├── images/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
-
 ## 🚀 Acesso ao Projeto (Google Colab)
 
 Você pode acessar o notebook completo no Google Colab através do link abaixo:
